@@ -11,7 +11,7 @@ Written by Moritz Koch, Felix Schütze and Sascha Scherrer and published under G
 * If not present, please install the GNU Compiler Collection (GCC)
 * Clone the repository
 * Switch to the src-directory
-* Execute gcc -std=c99 -o sudoku Sudoku.c to create an executable named sudoku from the main sourcefile Sudoku.c
+* Execute ```gcc -std=c99 -o sudoku Sudoku.c``` to create an executable named sudoku from the main sourcefile Sudoku.c
 * Have fun solving and generating soduku puzzles.
 
 # Platform
